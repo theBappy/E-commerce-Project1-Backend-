@@ -4,6 +4,10 @@ This is a full-stack e-commerce web application designed for users to browse, pu
 
 ------------------------------------------------------------
 
+## Related Projects
+- [Frontend Repository](https://github.com/theBappy/E-commerce-Project-1-Frontend-.git)
+
+
 Table of Contents
 
 1. Project Overview
