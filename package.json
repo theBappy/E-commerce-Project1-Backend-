@@ -4,15 +4,13 @@
   "description": "",
   "main": "backend/server.js",
   "scripts": {
-    "dev": "concurrently \"npm run server\" \"npm run vite\"",
+    "dev": "npm run server ",
     "server": "nodemon backend/server.js",
     "vite": "vite",
     "start": "node server.js",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint ./src ./backend",
-    "format": "prettier --write \"src/**/*.{js,jsx}\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
